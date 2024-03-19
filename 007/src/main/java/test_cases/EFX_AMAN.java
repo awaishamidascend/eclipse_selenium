@@ -40,6 +40,6 @@ public class EFX_AMAN {
 
         driver.findElement(By.xpath("//button[@type='submit']")).click();
 
-        System.out.println("Clicked on submit button");
+        System.out.println("Clicked on submit button successfully");
     }
 }
